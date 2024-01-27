@@ -1,0 +1,1 @@
+export const IMG_CDN = "https://media-assets.swiggy.com/swiggy/image/upload/";
